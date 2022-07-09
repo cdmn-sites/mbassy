@@ -1,12 +1,16 @@
 <script>
-  import viteLogo from '/vite.svg'
+  import logl from '../assets/MBassy_Pantone_Komplett.png'
 </script>
 
 <main>
-asd
+<img src={logl}/>
 </main>
 
 <style>
+img {
+  max-width: 100vw;
+  max-height: 100vh;
+}
   main {
     width: 100vw;
     height: 100vh;
