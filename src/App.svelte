@@ -1,0 +1,17 @@
+<script>
+  import viteLogo from '/vite.svg'
+</script>
+
+<main>
+asd
+</main>
+
+<style>
+  main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+</style>
